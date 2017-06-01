@@ -1,0 +1,14 @@
+---
+title: "SOCI 120 website"
+output:
+  html_document:
+    toc: false
+---
+
+### Test website
+
+This is a test website
+
+
+
+
