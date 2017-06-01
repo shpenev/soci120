@@ -61,6 +61,27 @@ year <- 2017 - age
 
 year
 
+# You can create vectors with c() command.
+
+vector <- c(18, 34, 45)
+
+# You can now do arithmetic operations with this vector
+
+vector2 <- vector*3 + 200
+
+vector3 <- vector/vector2
+
+# Notice that R does vector operations element by element.
+# If there are more elements in one vector, R will recycle 
+# elements of the second vector
+
+x <- c(2,4)
+y <- c(3,7,11,13)
+
+x*y
+
+# If the number of elements of one vector is not a multiple of the number 
+# of elements in another vector, R will issue a warning.
 
 
 
