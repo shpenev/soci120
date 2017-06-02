@@ -1,5 +1,5 @@
 ---
-title: "SOCI 120 website"
+title: "SOCI 120"
 output:
   html_document:
     toc: false

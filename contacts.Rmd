@@ -5,4 +5,4 @@ output:
     toc: false
 ---
 
-If you need any assistance, do not hesitate to contact me.
+If you need any assistance, do not hesitate to contact me at shpenev@sas.upenn.edu
