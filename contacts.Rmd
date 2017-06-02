@@ -1,0 +1,8 @@
+---
+title: "Contact me"
+output:
+  html_document:
+    toc: false
+---
+
+If you need any assistance, do not hesitate to contact me.

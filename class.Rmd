@@ -1,0 +1,22 @@
+---
+title: "Class content"
+output:
+  html_document:
+    toc: false
+---
+
+### Class schedule
+
+| ÿ   |           | Theory                                       | Practice                         |
+|----|-----------|----------------------------------------------|----------------------------------|
+| 1  | 24-May-17 | Introduction*                                | Introduction to R                |
+| 2  | 31-May-17 | Organization of Information                  | Data in R                        |
+| 3  | 7-Jun-17  | Graphic presentation                         | Graphs in R                      |
+| 4  | 14-Jun-17 | Measures of Central Tendency and Variability | Summarizing Data in R            |
+| 5  | 21-Jun-17 | Normal Distribution.                         | Sampling in R                    |
+| 6  | 28-Jun-17 | Sampling and Sampling Distribution           | Estimation in R                  |
+| 7  | 5-Jul-17  | Estimation. Testing Hypotheses               | Hypotheses testing in R          |
+| 8  | 12-Jul-17 | Measures of Association. Chi-square          | Cross tabulation, Chi2 test in R |
+| 9  | 19-Jul-17 | Analysis of variance                         | Analysis of Variance in R        |
+| 10 | 26-Jul-17 | Introduction to Regression                   | Regression in R                  |
+| 11 | 2-Aug-17  | Final Exam                                   |                                  |
