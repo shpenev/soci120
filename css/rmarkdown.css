@@ -566,7 +566,7 @@ p {
 }
 
 #rStudioFooter .bandContent .footerLogo.researchgate {
-  background-image: url(../images/researchgate-logo.svg);
+  background-image: url(../images/RG_square_green.png);
 }
 
 #rStudioFooter .bandContent .footerLogo.orcid {
@@ -581,7 +581,9 @@ p {
   background-image: url(../images/pmc_logo.png);
 }
 
-
+#rStudioFooter .bandContent .footerLogo.academia {
+  background-image: url(../images/academia.png);
+}
 
 
 
