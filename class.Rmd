@@ -7,7 +7,7 @@ output:
 
 ### Class schedule
 
-| ÿ   |           | Theory                                       | Practice                         |
+|   |           | Theory                                       | Practice                         |
 |----|-----------|----------------------------------------------|----------------------------------|
 | 1  | 24-May-17 | Introduction*                                | Introduction to R                |
 | 2  | 31-May-17 | Organization of Information                  | Data in R                        |
