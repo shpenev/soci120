@@ -4,6 +4,7 @@ output:
   html_document:
     toc: false
 ---
+# Social Statistics (SOCI 120 Summer 2017)
 
 ### Aim of the class
 This course offers a basic introduction to the application and interpretation of statistical analysis in social sciences Upon completion, you should be familiar with a variety of basic statistical techniques that allow examination of interesting social questions. We begin by learning to describe thecharacteristics of groups, followed by a discussion of how to examine and generalize about relationships between the characteristics of groups. Emphasis is placed on the understanding and interpretation of statistics used to describe and generalize about group characteristics.
