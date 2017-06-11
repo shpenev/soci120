@@ -4,7 +4,7 @@ date: May 31, 2017
 author: Alex Shpenev
 output:
     beamer_presentation:
-         theme: "Warsaw"
+         theme: "Boadilla"
          colortheme: "crane"
          fonttheme: "structurebold"
 ---
