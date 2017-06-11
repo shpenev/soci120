@@ -40,6 +40,7 @@ It is crucial to furmulate your hypotheses before data collection. Otherwise, ou
 - A logical set of properties our observations have
 
 Two properties:
+
 - Exhaustiveness
 - Mutual Exclusiveness
 
