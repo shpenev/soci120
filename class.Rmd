@@ -9,7 +9,7 @@ output:
 
 |   |           | Theory                                       | Practice                         |
 |----|-----------|----------------------------------------------|----------------------------------|
-| 1  | 31-May-17 | Introduction                                 | Introduction to R: [R code](rcode/lesson00.R)  |
+| 1  | 31-May-17 | [Introduction](lectures/lecture01.pdf)                             | Introduction to R: [R code](rcode/lesson00.R)  |
 | 2  | 7-Jun-17  | Into to tables and Graphs                    | Data in R: [R code](rcode/lesson01.R)                       |
 | 3  | 14-Jun-17 | Measures of Central Tendency and Variability | Summarizing Data in R            |
 | 4  | 21-Jun-17 | Normal Distribution.                         | Sampling in R                    |
