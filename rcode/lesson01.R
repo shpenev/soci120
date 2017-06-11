@@ -128,11 +128,11 @@ electdata <- data.frame(candidates, soci120vector3)
 
 library(foreign)
 
-# read.dta, read.csv etc.
-# class
-# dim
-# nrow and ncol
-# object.size
+# We revied the following commands
+# data()
+# dim()
+# nrow() and ncol()
+# object.size()
 # names()
 # head() and tail()
 # summary()
@@ -141,7 +141,8 @@ library(foreign)
 
 ############ 1.4. graphs
 
-# plot
-# boxplot
-# hist
+# plot()
+# boxplot()
+# hist()
 
+# please refer to swirl() for a more detailed introduction. We will continue in the next class.
