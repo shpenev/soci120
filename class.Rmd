@@ -12,11 +12,11 @@ output:
 | 1  | 31-May-17 | [Introduction](lectures/lecture01.pdf)      | Introduction to R: [R code](rcode/lesson00.R)  |
 | 2  | 7-Jun-17  | [Into to tables and Graphs](lectures/lecture02.pdf)  | Data in R: [R code](rcode/lesson01.R)                       |
 | 3  | 14-Jun-17 | Measures of Central Tendency and Variability | Summarizing Data in R  [R code](rcode/lesson02.R)              |
-| 4  | 21-Jun-17 | Normal Distribution and Sampling                       | Sampling in R                    |
+| 4  | 21-Jun-17 | Normal Distribution and Sampling                       | Sampling in R      [R code](rcode/lesson03.R)                 |
 | 5  | 28-Jun-17 |     Estimation. Testing Hypotheses        | Estimation in R                  |
 | 6  | 5-Jul-17  |         Review. Measures of Association      | Hypotheses testing in R          |
-| 7  | 12-Jul-17 | Measures of Association. Chi-square          | Cross tabulation, Chi2 test in R |
-| 8  | 19-Jul-17 | Analysis of variance                         | Analysis of Variance in R        |
+| 7  | 12-Jul-17 | Chi-squared. Analysis of variance          | Cross tabulation, Chi2 test in R |
+| 8  | 19-Jul-17 | Introduction to Regression                       | Analysis of Variance in R        |
 | 9  | 26-Jul-17 | Introduction to Regression                   | Regression in R                  |
 | 10 | 2-Aug-17  | Final Wrap up                                   |                                  |
 
