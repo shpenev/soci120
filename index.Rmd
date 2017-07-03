@@ -7,12 +7,22 @@ output:
 # Social Statistics
 
 ### Aim of the class
-This course offers a basic introduction to the application and interpretation of statistical analysis in social sciences Upon completion, you should be familiar with a variety of basic statistical techniques that allow examination of interesting social questions. We begin by learning to describe thecharacteristics of groups, followed by a discussion of how to examine and generalize about relationships between the characteristics of groups. Emphasis is placed on the understanding and interpretation of statistics used to describe and generalize about group characteristics.
+This course offers a basic introduction to the application and interpretation of statistical analysis in social sciences Upon completion, you should be familiar with a variety of basic statistical techniques that allow examination of interesting social questions.
 
-Since this is an LPS class, we will put more emphasis on practice and solving your own research/work problems. I am open to suggestions about how to modify class to better suit your needs. Do not hesitate to contact me if you have any requests or ideas.
+We begin by learning to describe thecharacteristics of groups, followed by a discussion of how to examine and generalize about relationships between the characteristics of groups. Emphasis is placed on the understanding and interpretation of statistics used to describe and generalize about group characteristics.
+
+
+Since this is an LPS class, we will put more emphasis on practice and solving your own research/work problems. I am open to suggestions about how to modify class to better suit your needs.
+
 
 ### Textbook
 
 [Social Statistics for a Diverse Society (8th edition)](https://us.sagepub.com/en-us/nam/social-statistics-for-a-diverse-society/book249326)
+
+
+### Grading policy
+There will be a midterm and a project, but no final.
+There will also be several assignments.
+
 
 

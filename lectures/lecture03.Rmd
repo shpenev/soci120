@@ -1,0 +1,55 @@
+---
+title: "Measures of Central Tendency and Variabilit"
+date: June 14, 2017
+author: Alex Shpenev
+output:
+    beamer_presentation:
+         theme: "Boadilla"
+         colortheme: "crane"
+         fonttheme: "structurebold"
+---
+
+## Measures of Central Tendency
+
+- Measures of Central Tendency describe what is "typical" of the distribution.
+- They show where the "middle" of the distribution is. Not necessarily average!
+
+## Mode
+
+- What category is the most frequent?
+
+Most common languages in the U.S. other than English, 2015.
+
+| Language | Number of Speakers, mln  |
+| -------- | ------------------------ |
+| Spanish | 40 |
+| Chinese | 3.3 |
+| French | 2.2 |
+| Tagalog | 1.7 |
+| Vietnamese | 1.5 |
+| Hindustani | 1.3 |
+| Arabic | 1.2 |
+| Korean | 1.1 |
+| German | 1.1 |
+| Russian | 0.91 |
+
+Source: ACS, https://en.wikipedia.org/wiki/Languages_of_the_United_States
+
+## Mode for different Levels of Measurement
+
+- Easy to determine for nominal and ordinal variables.
+- Can be determined for interval-ratio variables.
+- If you are given an interval, the mode can be estimated using some assumptions. 
+
+We will not learn the formula for mode for intervals, but expect software to produce a mode for you.
+
+- Mode doesn't have to be unique
+
+## The Median
+
+- The median is the category that splits the distribution into two equal parts.
+- Half cases are above the median and half are below the median.
+- Can be calculated using several methods to determine a unique value.
+
+
+
