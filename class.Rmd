@@ -9,9 +9,9 @@ output:
 
 |   |           | Theory                                       | Practice                         |
 |----|-----------|----------------------------------------------|----------------------------------|
-| 1  | 31-May-17 | [Introduction](lectures/lecture01.pdf)      | Introduction to R: [R code](rcode/lesson00.R)  |
+| 1  | 31-May-17 | [Introduction](lectures/lecture01.pdf)               | Introduction to R: [R code](rcode/lesson00.R)  |
 | 2  | 7-Jun-17  | [Into to tables and Graphs](lectures/lecture02.pdf)  | Data in R: [R code](rcode/lesson01.R)                       |
-| 3  | 14-Jun-17 | Measures of Central Tendency and Variability | Summarizing Data in R  [R code](rcode/lesson02.R)              |
+| 3  | 14-Jun-17 | Measures of Central Tendency and Variability         | Summarizing Data in R  [R code](rcode/lesson02.R)              |
 | 4  | 21-Jun-17 | Normal Distribution and Sampling                       | Sampling in R      [R code](rcode/lesson03.R)                 |
 | 5  | 28-Jun-17 |     Estimation. Testing Hypotheses        | Estimation in R                  |
 | 6  | 5-Jul-17  |         Review. Measures of Association      | Hypotheses testing in R          |
