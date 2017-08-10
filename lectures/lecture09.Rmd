@@ -1,0 +1,58 @@
+---
+title: "Regression Analysis"
+date: July 26, 2017
+author: Alex Shpenev
+output:
+    beamer_presentation:
+         theme: "Boadilla"
+         colortheme: "crane"
+         fonttheme: "structurebold"
+---
+
+## Correlation doesn't imply causation
+
+http://nymag.com/daily/intelligencer/2016/11/activists-urge-hillary-clinton-to-challenge-election-results.html
+
+https://twitter.com/NateSilver538
+
+https://www.amazon.com/Signal-Noise-Many-Predictions-Fail-but/dp/0143125087
+
+
+## Ways to detect causality
+
+- Rubin's model
+- Random trial
+- Natural experiments
+
+## Types of quasi-experimental approaches
+
+- Differences-in-difference approach
+- Regression discontinuity design
+- Instrumental variables
+- Twin studies
+- Regression analysis...
+
+## Japan's crazy year
+
+
+
+## Romania's example
+
+
+## The Scatter Diagram
+- A visual method to display the relationship between two interval-ratio variables
+- Often a first step. It is suggestive of an association.
+
+## The scatter Diagram
+
+## Linear Relations
+
+A relationship between two interval-ratio variables that can be approximated using a straight line
+
+If all the data points lie on this line, the relationship is called perfect (or deterministic)
+
+## This is a very special person
+
+http://time.com/4742127/violet-brown-oldest-person-world/
+
+
